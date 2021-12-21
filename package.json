@@ -2,5 +2,8 @@
   "name": "hardhat-project",
   "devDependencies": {
     "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.12.0"
   }
 }
